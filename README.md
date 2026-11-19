@@ -2,6 +2,14 @@
 
 Proyecto de pruebas de API con **Karate 2.1.4** (última versión estable) sobre **Java 21 LTS** y **JUnit 6**.
 
+**Repositorio:** https://github.com/EvelynMendez/karate-api-tests
+
+## Clonar
+```bash
+git clone https://github.com/EvelynMendez/karate-api-tests.git
+cd karate-api-tests
+```
+
 ## Requisitos
 - JDK 21 (Karate 2.x requiere Java 21 o superior)
 - Maven 3.9+
